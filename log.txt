@@ -1,0 +1,16 @@
+1720239986046:GET /aboutNew request recieved
+1720239986231:GET /favicon.icoNew request recieved
+1720240359998:GET /signupNew request recieved
+1720240360080:GET /favicon.icoNew request recieved
+1720240422225:GET /signupNew request recieved
+1720240422263:GET /favicon.icoNew request recieved
+1720240733879:GET /signupNew request recieved
+1720240756818:GET /signupNew request recieved
+1720240779830:GET /searchNew request recieved
+1720240818849:GET /signupNew request recieved
+"^4.19.2",
+// 2 minor fixes
+//19 recommend bug fix or security fix
+//4 major release major/breaking update 
+^ install all the minor fixes or recommed bug fix automatetically
+~ it can change minor fixes automatetically
